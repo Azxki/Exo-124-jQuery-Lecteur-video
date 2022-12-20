@@ -6,6 +6,10 @@ html {
     box-sizing: inherit;
 }
 
+.toggle {
+    content: "🎮";
+}
+
 body {
     margin: 0;
     padding: 0;
